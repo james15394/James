@@ -4,9 +4,6 @@
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm James</h1>
 
-<a href="https://www.linkedin.com/in/doan-duong-4a7a81145/">
-  <img align="left" alt="james | linkedin" width="20px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1614996379~hmac=45be772ba2fcb71ca0c1e81b0d82b820" />
-</a>
 <br />
 <br />
 
