@@ -13,7 +13,7 @@
 🎓 &nbsp;I'm currently self-learning ReactJs and gaining some results.\
 ✍️ &nbsp;Also, I'm an IELTS tutor and translator and interpreter.\
 💬 &nbsp;Feel free to reach out to me for some interesting discussion.\
-👨 My Portfolio: https://my-portfolio-f713b.web.app/
+👨 My Portfolio: https://fervent-visvesvaraya-abfd54.netlify.app/#Home
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
